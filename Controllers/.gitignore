@@ -1,0 +1,12 @@
+# .NET build
+bin/
+obj/
+.vs/
+
+# ML / Data
+*.zip
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
